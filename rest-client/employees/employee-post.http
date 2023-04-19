@@ -1,0 +1,12 @@
+POST http://localhost:9000/employees HTTP/1.1
+content-type: application/json
+
+{
+    "firstName" : "Nguyen Thi",
+    "lastName" : "M",
+    "email" : "nhanvienm@gmail.com",
+    "phoneNumber" : "0398765777",
+    "address" : "30 Yên Bái",
+    "password" : "123456",
+    "birthday" : "1992-04-12"
+}

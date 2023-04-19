@@ -1,0 +1,11 @@
+PATCH  http://localhost:9000/customers/3 HTTP/1.1
+content-type: application/json
+
+{
+  "firstName": "Phan",
+  "lastName": "Hoang",
+  "phoneNumber": "0387651473",
+  "address": "Hue",
+  "emmail": "vinhpth@gamil.com",
+  "brithday": "2002-04-02",
+}

@@ -1,0 +1,11 @@
+POST http://localhost:9000/customers/login HTTP/1.1
+content-type: application/json
+
+{
+    "firstName": "Hoang ",
+    "lastName":"Vinh",
+    "phoneNumber":"0931932039",
+    "address":"38 Yen Bai",
+    "email": "tuantd@gmail.com",
+    "birthday":"2023-3-30"
+  }

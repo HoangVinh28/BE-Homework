@@ -1,0 +1,9 @@
+POST http://localhost:9000/suppliers HTTP/1.1
+content-type: application/json
+
+{
+    "name" : "Xiaomi",
+    "email" : "xiaomi@gmail.com",
+    "phoneNumber" : "0345218479",
+    "address" : "CHINA"
+}

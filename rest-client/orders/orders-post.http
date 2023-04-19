@@ -1,0 +1,19 @@
+POST  http://localhost:9000/orders HTTP/1.1
+content-type: application/json
+
+{
+    "createdDate" : "2023-03-20",
+    "shippedDate" : "2023-03-31",
+    "shippingAddress" : "38 Yen Bai",
+    "description": "Hàng dễ vỡ, xin nhẹ tay",
+    "orderDetails": [
+      {
+         "productId": "6423fc407d5203742162705f",
+         "price": 100,
+         "discount": 10,
+         "quantity": 1
+      }
+   ],
+   "customerId" : "64243978137f0e49e61d285d",
+   "employeeId" : "6423f73a7d52037421627013"
+}

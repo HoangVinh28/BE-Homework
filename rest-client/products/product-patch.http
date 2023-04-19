@@ -1,0 +1,12 @@
+PATCH  http://localhost:9000/products/6419cea349d2bc36ded86870 HTTP/1.1
+content-type: application/json
+
+{
+   "name" : "Samsung A31",
+    "price" : "20000000",
+    "discount" : 5,
+    "stock" : 2000,
+    "categoryId" : 1,
+    "supplierId" : 1,
+    "description" : "May dep, gia re"
+}

@@ -1,0 +1,65 @@
+[
+    {
+        "firstName": "Nguyen Van",
+        "lastName": "A",
+        "phoneNumber": "0923451789",
+        "address": "38 Yen Bai",
+        "email": "anv@gamil.com",
+        "birthdat": "2000-02-14",
+        "id": 1
+    },
+    {
+        "firstName": "Nguyen Van",
+        "lastName": "A",
+        "phoneNumber": "0923451789",
+        "address": "38 Yen Bai",
+        "email": "anv@gamil.com",
+        "birthdat": "2000-02-14",
+        "id": 2
+    },
+    {
+        "firstName": "Nguyen Van",
+        "lastName": "A",
+        "phoneNumber": "0923451789",
+        "address": "38 Yen Bai",
+        "email": "anv@gamil.com",
+        "birthdat": "2000-02-14",
+        "id": 3
+    },
+    {
+        "firstName": "Phan Van",
+        "lastName": "B",
+        "phoneNumber": "0923451789",
+        "address": "38 Yen Bai",
+        "email": "anv@gamil.com",
+        "birthdat": "2000-02-14",
+        "id": 4
+    },
+    {
+        "firstName": "Phan Van",
+        "lastName": "B",
+        "phoneNumber": "0923451789",
+        "address": "38 Yen Bai",
+        "email": "anv@gamil.com",
+        "birthdat": "2000-02-14",
+        "id": 5
+    },
+    {
+        "firstName": "hoang",
+        "lastName": "asd",
+        "phoneNumber": "0387651473",
+        "address": "Tam Phuoc",
+        "emmail": "phanthoangvinh28@gmail.com",
+        "brithday": "2002-04-02",
+        "id": 6
+    },
+    {
+        "firstName": "hoang",
+        "lastName": "vinh",
+        "phoneNumber": "0387651473",
+        "address": "Tam Phuoc",
+        "email": "phanthoangvinh28@gmail.com",
+        "birthdat": "2020-05-02",
+        "id": 7
+    }
+]

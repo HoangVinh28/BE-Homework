@@ -1,0 +1,12 @@
+POST http://localhost:9000/products HTTP/1.1
+content-type: application/json
+
+{
+    "name": "Samsung Fold 4",
+    "price": 40000000,
+    "discount": 10,
+    "stock": 2000,
+    "categoryId": "6419bdd449fe4d121b746415",
+    "supplierId": "6419c47e49d2bc36ded86868",
+   
+}

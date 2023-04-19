@@ -1,0 +1,82 @@
+[
+    {
+        "name": "Samsung A31",
+        "price": "20000000",
+        "discount": 5,
+        "stock": 2000,
+        "categoryId": 1,
+        "supplierId": 1,
+        "description": "May dep, gia re",
+        "id": 3
+    },
+    {
+        "name": "Samsung Fold 4",
+        "price": "40000000",
+        "discount": 5,
+        "stock": 2000,
+        "categoryId": 1,
+        "supplierId": 1,
+        "description": "May dep, gia re",
+        "id": 4
+    },
+    {
+        "name": "Samsung Fold 4",
+        "price": "40000000",
+        "discount": 5,
+        "stock": 2000,
+        "categoryId": 1,
+        "supplierId": 1,
+        "description": "May dep, gia re",
+        "id": 5
+    },
+    {
+        "name": "Samsung Fold 4",
+        "price": "40000000",
+        "discount": 5,
+        "stock": 2000,
+        "categoryId": 1,
+        "supplierId": 1,
+        "description": "May dep, gia re",
+        "id": 6
+    },
+    {
+        "name": "Samsung Fold 4",
+        "price": "40000000",
+        "discount": 5,
+        "stock": 2000,
+        "categoryId": 1,
+        "supplierId": 1,
+        "description": "May dep, gia re",
+        "id": 7
+    },
+    {
+        "name": "Samsung Fold 4",
+        "price": "40000000",
+        "discount": 5,
+        "stock": 2000,
+        "categoryId": 1,
+        "supplierId": 1,
+        "description": "May dep, gia re",
+        "id": 8
+    },
+    {
+        "name": "Samsung Fold 4",
+        "price": "40000000",
+        "discount": 5,
+        "stock": 2000,
+        "categoryId": "9",
+        "supplierId": "9",
+        "description": "May dep, gia re",
+        "id": 9
+    },
+    {
+        "name": "Iphone 14",
+        "price": "45000000",
+        "discount": "5",
+        "stock": "3000",
+        "categoryId": "10",
+        "supplierId": "10",
+        "description": "Điện Thoại Thông minh",
+        "id": 10
+    }
+]

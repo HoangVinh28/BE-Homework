@@ -1,0 +1,2 @@
+GET http://localhost:9000/questions/30 HTTP/1.1
+content-Type: application/json
